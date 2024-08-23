@@ -1,4 +1,4 @@
-##Static file serving using nginx web server:   
+**Static file serving using nginx web server:**  
 An Nginx container refers to an instance of the Nginx web server software packaged and deployed using containerization technology. Containers are lightweight, portable, and consistent environments that encapsulate an application and its dependencies, allowing it to run consistently across different environments.
 
 Nginx is a popular open-source web server, reverse proxy server, and load balancer known for its high performance, scalability, and efficiency. When deployed within a container, Nginx can be easily managed, deployed, and scaled using container orchestration platforms like Docker .....
